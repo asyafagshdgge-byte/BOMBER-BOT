@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8643322725:AAG45lf0GkMuRLChKNa6K2f2mSRa8tY-FiM")
 
 # ⏱️ TIMER CONFIG
 BOMB_DURATION = 300  # 5 minutes in seconds
